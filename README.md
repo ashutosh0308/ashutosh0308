@@ -38,3 +38,8 @@ This is *Ashutosh* 👾 , currently pursuing B.Tech in CSE from KIIT University.
 <img height=250em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh0308&theme=github_dark" />
 </a>
 </p>
+<br>
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=ashutosh0308">  
+</p>
+
