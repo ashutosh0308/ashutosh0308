@@ -1,45 +1,61 @@
-<h1>Hi there, I'm Ashutosh 👋</h1>
+<h1 align="center">Hi there, I'm Ashutosh 👋</h1>
 
-<p>Welcome to my GitHub profile! I'm a passionate full-stack developer with a diverse skill set spanning frontend, backend, and cloud technologies. Here's a bit about me and what I can do:</p>
+<p align="center">
+  👨‍💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 💡 Lifelong Learner
+</p>
 
-<h2>Skills 🛠️</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashutosh0308/"><img src="https://img.shields.io/badge/LinkedIn-Ashutosh-blue?logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-orange?logo=amazonaws" alt="AWS Certification">
+</p>
 
-<h3>Frontend Development</h3>
-<ul>
-  <li><strong>Languages:</strong> TypeScript, HTML, CSS</li>
-  <li><strong>Frameworks:</strong> React</li>
-</ul>
+---
 
-<h3>Backend Development</h3>
-<ul>
-  <li><strong>Languages:</strong> Java, Node.js, Python</li>
-  <li><strong>Frameworks:</strong> Spring Boot</li>
-</ul>
+### 🚀 About Me
 
-<h3>Cloud Computing</h3>
-<ul>
-  <li><strong>Platform:</strong> AWS (Amazon Web Services)</li>
-  <li><strong>Certification:</strong> AWS Certified Solutions Architect - Associate</li>
-</ul>
+Welcome to my GitHub! I'm a passionate **full-stack developer** with experience crafting robust applications from front to back—powered by modern technologies and cloud-native architecture.
 
-<h2>What I Do 💼</h2>
+---
 
-<p>I specialize in developing end-to-end applications that leverage the power of cloud computing. My expertise includes:</p>
+### 🛠️ Tech Stack
 
-<ul>
-  <li><strong>Frontend Development:</strong> Creating responsive, dynamic user interfaces with React, TypeScript, HTML, and CSS.</li>
-  <li><strong>Backend Development:</strong> Building robust and scalable backend systems with Java, Spring Boot, Node.js, and Python.</li>
-  <li><strong>Cloud Integration:</strong> Designing and implementing cloud-based solutions using AWS services to ensure high availability, scalability, and performance.</li>
-</ul>
+#### 🌐 Frontend
+- **Languages:** TypeScript, HTML, CSS
+- **Frameworks:** React
 
-<h2>Get in Touch 📫</h2>
+#### 🖥️ Backend
+- **Languages:** Java, Node.js, Python
+- **Frameworks:** Spring Boot, NestJS
 
-<p>I'm always excited to connect with like-minded professionals and explore new opportunities. Feel free to reach out to me through:</p>
+#### ☁️ Cloud
+- **Platform:** Amazon Web Services (AWS)
+- **Services:** AWS S3, RDS, DynamoDB, EC2, EBS, Step Functions, Glue, Secrets Manager, IAM.
+- **Certification:** AWS Certified Solutions Architect – Associate
 
-<ul>
-  <li><strong><a href="https://www.linkedin.com/in/ashutosh0308/">LinkedIn </a></strong> </li>
-</ul>
+#### ⚙️ Tools
+- **Devops:** Docker
+- **Database:** DBeaver, pgAdmin
+- **IAC:** Terraform
+- **IDE:** VSCode, IntelliJ, Pycharm, Cursor/Windsurf
 
-<p>Let's build something amazing together!</p>
+---
 
-<hr>
+### 💼 What I Do
+
+I design and build **end-to-end applications** with a focus on performance, scalability, and clean architecture.
+
+- 🔧 **Frontend:** Responsive, dynamic UIs with React + TypeScript
+- ⚙️ **Backend:** Scalable APIs and services/micro-services with Java (Spring Boot), Node.js, Python
+- ☁️ **Cloud:** Cloud-native deployments on AWS using services like Lambda, S3, EC2, RDS
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to collaboration, knowledge sharing, and new challenges!
+
+- 👉 [LinkedIn](https://www.linkedin.com/in/ashutosh0308/)
+
+---
+
+<p align="center">✨ Let's build something amazing together! ✨</p>
